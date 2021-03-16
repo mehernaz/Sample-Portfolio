@@ -171,7 +171,7 @@ footer
 }
 @media screen and (max-width:750px){
     h1{
-        font-size: 53px;
+        
         line-height: 0.9;
         margin-bottom: 20px;
         overflow: hidden;
@@ -179,7 +179,7 @@ footer
     }
     h2{
         line-height: 1;
-font-size:40px;
+
     }
     .contact-list a{
         padding: 5px;
