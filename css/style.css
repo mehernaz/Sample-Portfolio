@@ -171,10 +171,11 @@ footer
 }
 @media screen and (max-width:750px){
     h1{
-        font-size: 75px;
+        font-size: 65px;
         line-height: 0.9;
         margin-bottom: 20px;
         overflow: hidden;
+
     }
     h2{
         line-height: 1;
